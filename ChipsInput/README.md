@@ -22,3 +22,4 @@ Button should be labeled "X" to delete chips.
 If two chips have the same name, deleting one should NOT delete both.
 
 Use onKeyDown event handler instead of onKeyPress, because onKeyPress is deprecated.
+![image](https://github.com/user-attachments/assets/ad804279-2a66-42bf-bdf5-2dbf84fb99f1)
